@@ -12,6 +12,7 @@ namespace ConsoleApp4
         {
             Console.WriteLine("THIS IS SECOND TESTING");
             Console.WriteLine("HI THIS IS ANOTHER LINE");
+            Console.WriteLine("THIRD CHANGES");
         }
     }
 }
