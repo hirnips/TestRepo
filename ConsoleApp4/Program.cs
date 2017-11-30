@@ -10,6 +10,8 @@ namespace ConsoleApp4
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("THIS IS SECOND TESTING");
+            Console.WriteLine("HI THIS IS ANOTHER LINE");
         }
     }
 }
